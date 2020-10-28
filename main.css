@@ -1,0 +1,163 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(hii.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.box-one {
+	width: 650px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	martin-top: 5%;
+	color: white;
+	font-family: "Century Gothic"
+}
+.box-one img{
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+}
+.box-one h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box-one h3{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box-one h4{
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-align: justify;
+	font-weight: 50;
+}
+.box-two {
+	width: 650px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	martin-top: 5%;
+	color: white;
+	font-family: "Century Gothic"
+}
+.box-two img{
+	border-radius: 10%;
+	width: 350px;
+	height: 475px;
+}
+.box-two h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box-two h3{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box-two h4{
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-align: justify;
+	font-weight: 50;
+}
+.box-three {
+	width: 650px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	martin-top: 5%;
+	color: white;
+	font-family: "Century Gothic"
+}
+.box-three img{
+	border-radius: 10%;
+	width: 450px;
+	height: 300px;
+}
+.box-three h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box-three h3{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box-three h4{
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-align: justify;
+	font-weight: 50;
+}
+.box-four {
+	width: 650px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	martin-top: 5%;
+	color: white;
+	font-family: "Century Gothic"
+}
+.box-four img{
+	border-radius: 10%;
+	width: 450px;
+	height: 600px;
+}
+.box-four h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box-four h3{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box-four h4{
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-align: justify;
+	font-weight: 50;
+}
+.box-five {
+	width: 650px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	martin-top: 5%;
+	color: white;
+	font-family: "Century Gothic"
+}
+.box-five img{
+	border-radius: 10%;
+	width: 450px;
+	height: 450px;
+}
+.box-five h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box-five h3{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box-five h4{
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-align: justify;
+	font-weight: 50;
+}
